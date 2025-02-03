@@ -2,17 +2,17 @@ from typing import List
 
 import numpy as np
 import pandas as pd
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 from umap import UMAP
 
 UMAP_MODEL = UMAP(n_neighbors=15, random_state=42, verbose=True)
-ENCODER = SentenceTransformer("paraphrase-MiniLM-L3-v2")
+#ENCODER = SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
 
 def encode_inputs(samples: List[str]) -> np.ndarray:
-    return ENCODER.encode(samples)
+#    return ENCODER.encode(samples)
     # When doing rapid development, it's faster to return a numpy array
-    # return np.random.rand(len(samples), 20)
+     return np.random.rand(len(samples), 20)
 
 
 def get_xy(embs: np.ndarray) -> np.ndarray:

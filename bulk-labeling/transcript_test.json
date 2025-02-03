@@ -1,0 +1,1773 @@
+{
+            "footage_id": "footage_id0001",
+            "title": "Fully Transcribed Rushes",
+            "description": "Approximately one hour of rushes capturing the key events of the crash response.",
+            "associated_rushes_lines": "20-726",
+            "transcripts": [
+                {
+                    "role": "RADIO 1",
+                    "dialogue": "Yeah. This one on the roundabout is actually a two vehicle RTC. There's a male in a green Tesla who's potentially injublue, ambulance is on scene. looking at the impact on the male driver.",
+                    "timestamp": "00:00:51"
+                },
+                {
+                    "role": "RADIO 2",
+                    "dialogue": "Sorry, what's the impacted on the driver?",
+                    "timestamp": "00:01:09"
+                },
+                {
+                    "role": "RADIO 1",
+                    "dialogue": "The Ford's hit the green Tesla, the door's caved in into the driver. Ambulance are seeing to his medical needs at the minute.",
+                    "timestamp": "00:01:12"
+                },
+                {
+                    "role": "RADIO 1",
+                    "dialogue": "Requested the fire brigade as the airbags have gone off in the Tesla. The driver's in the driver's seat. He's conscious, he's breathing.",
+                    "timestamp": "00:02:12"
+                },
+                {
+                    "role": "RADIO 2",
+                    "dialogue": "Recieved.",
+                    "timestamp": "00:02:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yep, I'm on this one.",
+                    "timestamp": "00:03:01"
+                },
+                {
+                    "role": "RADIO 2",
+                    "dialogue": "Yes, yes. Sergeant is just area command at the minute over there.",
+                    "timestamp": "00:03:12"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "It's so bouncy, these Volvos.",
+                    "timestamp": "00:03:24"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "It is.",
+                    "timestamp": "00:03:25"
+                },
+                {
+                    "role": "RADIO 2",
+                    "dialogue": "Regististed to keeper.",
+                    "timestamp": "00:03:27"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's why I ended up just feeling sick. It's fucking the super bouncy. These are much more grounded.",
+                    "timestamp": "00:03:30"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Depends who's driving as well.",
+                    "timestamp": "00:03:32"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah.",
+                    "timestamp": "00:03:34"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Tell us what you're going to do here, Harry. Yeah. We're nearly at the roundabout. Way quite a location. Yeah.",
+                    "timestamp": "00:03:55"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "State of that, bloody hell.",
+                    "timestamp": "00:04:11"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Blimey. I'll run checks in the car.",
+                    "timestamp": "00:04:26"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Hello, mate.",
+                    "timestamp": "00:04:31"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "He's driving this blue car here.",
+                    "timestamp": "00:04:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Have you checked his driver's license.",
+                    "timestamp": "00:04:38"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Yeah, I've run that through, nothing outstanding.",
+                    "timestamp": null
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Who are these cones?",
+                    "timestamp": "00:04:44"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Charlie's put them out. Keep the traffic moving.",
+                    "timestamp": "00:04:50"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right, mate?",
+                    "timestamp": "00:04:53"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Yeah, sound.",
+                    "timestamp": "00:04:55"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'll just stick you in the back of my car for two minutes. What's the craic? What's happened?",
+                    "timestamp": "00:04:56"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Back end's come out on that roundabout.",
+                    "timestamp": "00:04:57"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Where have you been coming from?",
+                    "timestamp": "00:04:58"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Brixton Park. Asda.",
+                    "timestamp": "00:05:00"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So you've came round here?",
+                    "timestamp": "00:05:02"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Round here? And by the time, the back end's come out, and when I've went to correct it, it's slapped us. And when I've come onto the grass. I'm sorry, mate. I've slammed the brakes on and it just slid from, from the grass over there.",
+                    "timestamp": "00:05:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "How was the back end came out?",
+                    "timestamp": "00:05:17"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Oh, I wasn't driving ridiculous. I don't know how it came out. Ask the wife.",
+                    "timestamp": "00:05:20"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Were you driving?",
+                    "timestamp": "00:05:25"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Yeah, I was driving. She was in the passenger seat.",
+                    "timestamp": "00:05:26"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Well, you were driving, so how's the back end came out?",
+                    "timestamp": "00:05:27"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I don't know.",
+                    "timestamp": "00:05:30"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "How long you had that car for?",
+                    "timestamp": "00:05:31"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Two and a half year.",
+                    "timestamp": "00:05:33"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. Okay. Have to sit in the back of my car.",
+                    "timestamp": "00:05:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, yeah. That's fine. Okay. You alright with him for two seconds? If you just run him through.",
+                    "timestamp": "00:05:47"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "RADIO: Passenger details of the Tesla driver, please.",
+                    "timestamp": "00:05:59"
+                },
+                {
+                    "role": "RADIO",
+                    "dialogue": "Yes. Go ahead.",
+                    "timestamp": "00:06:11"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Yeah. Injublue driver's last name is Jones. First name is Alan.",
+                    "timestamp": "00:06:13"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "You alright. Are you his partner? In the blue car? Yeah. All right. What's happened?",
+                    "timestamp": "00:06:17"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "I don't know. We come around the roundabout. The next thing I know, it's on there and against the other car.",
+                    "timestamp": "00:06:23"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's wrong?",
+                    "timestamp": "00:06:26"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "What's wrong?",
+                    "timestamp": "00:06:31"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's what I asked yeah. Yeah.",
+                    "timestamp": "00:06:34"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "What do you mean?",
+                    "timestamp": "00:06:35"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Has he been driving fast or.",
+                    "timestamp": "00:06:36"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "I don't know, like it just happened so fast. We were literally coming around the roundabout and then boom boom boom, we're on the grass.",
+                    "timestamp": "00:06:37"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. So where you's came from?",
+                    "timestamp": "00:06:43"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Just from Asda.",
+                    "timestamp": "00:06:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. So how he's ended up on there? Has he been going fast or is he...?",
+                    "timestamp": "00:06:49"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "No. He came around here and then the next thing, I wasn't, I don't take any notice. And then he was on here and the next thing I know we're up there and like there was another car beside us.",
+                    "timestamp": "00:06:51"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right okay.",
+                    "timestamp": "00:06:56"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Like the side of our car literally going acAlan here. And hit their car and I don't know they got around there.",
+                    "timestamp": "00:07:02"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Right. Okay.",
+                    "timestamp": "00:07:04"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Have you been arguing or anything like that?",
+                    "timestamp": "00:07:07"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "No.",
+                    "timestamp": null
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "You haven't. Right. Champion. What was your name?",
+                    "timestamp": null
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Angela Smith.",
+                    "timestamp": null
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Who's the driver of that?",
+                    "timestamp": "00:07:15"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I've got him in the back of my car.",
+                    "timestamp": "00:07:25"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Have you seen the dashcam footage.",
+                    "timestamp": "00:07:30"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Not yet No.",
+                    "timestamp": "00:07:32"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "He's gone round that bend. Far too fast. You might as well report him straight away for careless driving.",
+                    "timestamp": "00:07:33"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Angela. What is your full name?",
+                    "timestamp": "00:07:34"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Angela Smith.",
+                    "timestamp": "00:07:34"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's your date of birth?",
+                    "timestamp": "00:07:35"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "1999-07-02 00:00:00",
+                    "timestamp": "00:07:37"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's your home address? Please?",
+                    "timestamp": "00:07:40"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Acacia Avenue",
+                    "timestamp": "00:07:44"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's your postcode?",
+                    "timestamp": "00:07:52"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "SW5 2DZ.",
+                    "timestamp": "00:07:53"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "You've got a contact telephone number.",
+                    "timestamp": "00:07:57"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "07654 123456",
+                    "timestamp": "00:07:59"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What he called. Sorry, your lad.",
+                    "timestamp": "00:08:05"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Alan.",
+                    "timestamp": "00:08:26"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Have you got any injuries, Angela? Do you feel like. Are you in any pain or anything like that?",
+                    "timestamp": "00:08:37"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Fuckin stressed.",
+                    "timestamp": "00:08:42"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Are you all right with her for two seconds while I have a look and then we'll have a chat.",
+                    "timestamp": "00:08:45"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "Sure.",
+                    "timestamp": "00:08:46"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Who's got the footage?",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Car down there with the hazard lights on. The bit that she's shown is is already drifting, so I've asked her to get the bit before it. So he's come round that bend",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "cos he said to me",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "basically like sideways.",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "He's literally said that the back ends got away from him and I was going 'How?'",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Cos he's got his foot down, that's why.",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Exactly. It's a Ford and he's got his foot down isn't it. Right.",
+                    "timestamp": "00:08:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What injury wise, what we got with the",
+                    "timestamp": "00:08:48"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "I don't know, it's just getting assessed. Do you want the car searched as well?",
+                    "timestamp": "00:08:59"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Might as well aye.",
+                    "timestamp": "00:09:04"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Give us two seconds. Not yet. I'll have a look for you.",
+                    "timestamp": "00:09:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Was it an X5? I'll do the section 4 stuff with him and then.",
+                    "timestamp": "00:09:08"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "I'll check the car.",
+                    "timestamp": "00:09:09"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "You know, so far Harry. What's going on?",
+                    "timestamp": "00:09:10"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So we've got a an RTC where this Ford is obviously ended off up off a grass verge, and we've got another member of the public has been thrown into the mix where he's been. He's struck a lamp post, they're trapped in the car at the moment. The Ford driver has said that he's just come round the roundabout quite normally and the back ends's got away from him. In my experience that doesn't just happen. Fords are notorious for having quite slippy in corners because the rear wheel drive in most of them. But so I know that generally he's obviously put his foot down a little bit, which has got away from him. He's not been able to drive it properly. So someone's came a cropper because of his driving. So we'll do a couple of procedures with him to make sure that he's not over the limit or anything like that. And then we'll we'll get an injury update for the driver of the other vehicle. Hopefully they're all right. No bother, o bother.",
+                    "timestamp": "00:09:10"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Great, thank you.",
+                    "timestamp": "00:10:10"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "I gave his license back and got all the details.",
+                    "timestamp": "00:10:20"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, champion. Right.",
+                    "timestamp": "00:10:30"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So we've got to do a couple of procedures with you just to make sure that you've not got any cocaine or cannabis on you in your system or anything like that. Have you had any alcohol or anything like that?",
+                    "timestamp": "00:10:36"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I've had one Pina Colada.",
+                    "timestamp": "00:10:43"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "One Pina Colada. Where have you just come from?",
+                    "timestamp": "00:10:47"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Napoleon's bar.",
+                    "timestamp": "00:10:51"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Napoleon's over in Streatham Oh, yes.",
+                    "timestamp": "00:10:52"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Had a nice afternoon.",
+                    "timestamp": "00:10:54"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. Okay. We'll do a couple of the procedures with you. Have you had any cannabis or cocaine lately?",
+                    "timestamp": "00:10:57"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "No, course not.",
+                    "timestamp": "00:11:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. House key. You got the house key on you?",
+                    "timestamp": "00:11:09"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "My house key?",
+                    "timestamp": "00:11:11"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Your house key. Your wife is going to stop there for a couple of minutes, it's just round the corner, right.",
+                    "timestamp": "00:11:12"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Oh yeah, right, of course.",
+                    "timestamp": "00:11:12"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's your name again, sorry.",
+                    "timestamp": "00:11:12"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Alan.",
+                    "timestamp": "00:11:12"
+                },
+                {
+                    "role": "RADIO",
+                    "dialogue": "Make sure in case it went flying. All right? Definitely got them, I got them.",
+                    "timestamp": "00:11:13"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Have you done one of these before Alan?",
+                    "timestamp": "00:11:25"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "No.",
+                    "timestamp": "00:11:55"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Because you've been involved in a road traffic collision. We've got a power under section six of the Road Traffic Act 1992. It's a preliminary sample of breath from you. That'll be done by means of this device. Okay. You have to be under caution for that. You're not under arrest, but you've got to be under caution because an evidential procedure. So you don't have to say anything. But it may harm your defence if you do not mention now something which you later rely on in court. Do you understand?",
+                    "timestamp": "00:12:10"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right. What I need from you is just one long, continuous blow on this. way, if you want to take a deep breath and I'll tell you when to stop. All right? You can't. Deep breath. Go on. Keep going, keep going. Champion! Stop! Champion, that's zero, so it's burnt off already. So you haven't had cannabis or cocaine at all?",
+                    "timestamp": "00:12:17"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Can't if I'm working.",
+                    "timestamp": "00:12:21"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What do you do for your work?",
+                    "timestamp": "00:12:23"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I'm an accountant.",
+                    "timestamp": "00:12:24"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Okay, I'm with you. Right. Give us a couple of minutes.",
+                    "timestamp": "00:12:24"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'm not going to lie to you, Alan. Looks like on the initial inspection, this dashcam footage of that, is like you're going quick. Me going quick?",
+                    "timestamp": "00:12:25"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah.",
+                    "timestamp": "00:12:28"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Right.",
+                    "timestamp": "00:12:30"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "And driving the vehicle out of control. All right.",
+                    "timestamp": "00:12:32"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I remember a lane change. But I cannot remember...",
+                    "timestamp": "00:12:35"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. Well, the footage that my colleagues viewed he's saying that looked like careless driving. So what we need to do is we need to ascertain the injury level of the person in the other vehicle, okay. And make a decision from there as to whether what we're doing with you. All right. Obviously don't say anything about it yet because you're you might be getting arrested or you may you're most likely will be interviewed at a later date about it. All right. So just bear that in mind. All right. I didn't want you to incriminate yourself.",
+                    "timestamp": "00:12:37"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'm quite confident about cannabis and cocaine's he's not going to fail a drug wipe.",
+                    "timestamp": "00:13:25"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yes.",
+                    "timestamp": "00:13:52"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So we've just got to waiting to see whether we've got some dash cam footage of this now. If it's kind of drifting around the corner. So we're just waiting for the....obviously, we've got the fire brigade, and we've got the ambulance crew on standby. He's trapped in the car at the moment. A lot of it's generally precautionary measures. But we just need to make sure that there's no kind of like spinal injuries from the collision. Once he's out, we'll get an assessment, and we'll probably end up speaking with him at a later date. If it's not looking like it's going to be life changing or life threatening. Which I haven't had any update to say it is yet, so I'll just go and stick my head in and see what see what the deal is.",
+                    "timestamp": "00:14:02"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Alright?",
+                    "timestamp": "00:14:48"
+                },
+                {
+                    "role": "COP 2",
+                    "dialogue": "Have you any idea what speed he's going?",
+                    "timestamp": "00:14:58"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Not got nothing. Is that what they're asking? It's not going to be more than 30 or 40 really coming off there I wouldn't imagine.",
+                    "timestamp": "00:15:03"
+                },
+                {
+                    "role": "COP 2",
+                    "dialogue": "Harry, what's the matter with him?",
+                    "timestamp": "00:15:08"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So he's basically just said initially that he's came around the corner and then the back ends got away from him. I was like, what do you mean? I was like, he was like, well, the back ends just go with him. I was like hmmmmm.",
+                    "timestamp": "00:15:11"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "There's been a witness turned up when we turned up, and I didn't obviously see all this. He got out the car and said, I've witnessed it all. The Ford driver was driving erratically, and then he's gone into the side of him.",
+                    "timestamp": "00:15:22"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So he's been a dick. Where's this one been coming from?",
+                    "timestamp": "00:15:35"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "He's been coming around",
+                    "timestamp": "00:15:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "and that's came off. That's gone out. The back end has gone out from it. Then like nudged him.",
+                    "timestamp": "00:15:38"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "Then it's all damaged on the side. So like the whole driver's door's in.",
+                    "timestamp": "00:15:41"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Ah right. Do we think much level of injury or would it just be in precaution?",
+                    "timestamp": "00:15:45"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "He's saying shoulder pain. It feels like it popped out, like, a bit and then all down his leg. So we don't know at the minute he's talking, he's concious.",
+                    "timestamp": "00:15:52"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "He's passed the section 4 stuff like. So I might just report him and deal with it later. Has Murphy got the footage and that?",
+                    "timestamp": "00:15:59"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "Yeah, he hasn't said he's got it. He's saying there's dashcam footage of, like. literally the bit at the end, not the first bit.",
+                    "timestamp": "00:16:08"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, right. I'll try and get a hold of it.",
+                    "timestamp": "00:16:11"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "Are you sure, you've got loads on.",
+                    "timestamp": "00:16:14"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'm happy. Yeah, we'll just do it. It's quite simple if it's on dashcam and I'll just interview him at a later date.",
+                    "timestamp": "00:16:25"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "We're gonna wait till he's on the ambulance. We'll try and get him on the stretcher.",
+                    "timestamp": "00:16:27"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Probably be fine. I'm of that same opinion of just how, let's not over complicate it.",
+                    "timestamp": "00:16:29"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "His mate was standing up there. And I keep saying you're not filming it now, get away.",
+                    "timestamp": "00:16:41"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Who's this, the one in the black top?",
+                    "timestamp": "00:16:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "He was trying to prise the door off.",
+                    "timestamp": "00:16:49"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Oh God. Trying to get in.",
+                    "timestamp": "00:16:52"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "This is going to be a bit more interesting getting the door open.",
+                    "timestamp": "00:16:53"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "I think i jinxed it tonight. One of my mates, he's a cook. He keeps sending me pictures of food, he said come round I'll cook I thought I'd get off early.",
+                    "timestamp": "00:16:55"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Fire crew might give you a skewer. You've got your chicken skewer.",
+                    "timestamp": "00:17:13"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "Oh, yeah. No, not your fault.",
+                    "timestamp": "00:17:20"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I know I feel bad, feel bad.",
+                    "timestamp": "00:17:24"
+                },
+                {
+                    "role": "COP 3",
+                    "dialogue": "I'll get some details off his wife for you. I've got  just a contact number. So I'll get a bit more.",
+                    "timestamp": "00:17:28"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right, I'm gonna see who that thingy is from the. Is that? Is that your car at the very front? Is it?",
+                    "timestamp": "00:17:34"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Yeah.",
+                    "timestamp": "00:17:53"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's yours. I was just making sure.",
+                    "timestamp": "00:18:02"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Want me to move it?",
+                    "timestamp": "00:18:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "No, no. You're fine. You're fine where you are. You've came up there. Is that your mate? I take it in there.",
+                    "timestamp": "00:18:09"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Yeah.",
+                    "timestamp": "00:18:10"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's he called?",
+                    "timestamp": "00:18:11"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Lenny.",
+                    "timestamp": "00:18:11"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Great. I'm obviously. We see a lot of this stuff. I know it looks quite bad, but we'll just make sure that it's generally precautionary measures that I do this for.",
+                    "timestamp": "00:18:11"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "I was just worried because he was mixing words when he was talking.",
+                    "timestamp": "00:18:11"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Ah a bit strange. Where's he been off to?",
+                    "timestamp": "00:18:12"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "",
+                    "timestamp": "00:18:14"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Like before that he was home and he spoke to me like he say I want to go to play tennis.",
+                    "timestamp": "00:18:16"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, so he was on his way to play tennis.",
+                    "timestamp": "00:18:20"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "When he crashed. And after this, he say, I'm say, what's going on? He's say I'm here? And the problem is he say, like, this guy is coming very fast. I don't have any, like, a solution. Any clue what's going on, to be honest. Which is? I believe that he comes from this direction. Maybe he coming over from the other side and he hit his car.",
+                    "timestamp": "00:18:22"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah,",
+                    "timestamp": "00:18:31"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "and he pushed him over.",
+                    "timestamp": "00:18:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I know what you mean. Yeah. We'll get him out and see what the injuries are. Probably be a couple hours before. Probably",
+                    "timestamp": "00:18:41"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "I was on my way to play today, but I'm gonna do that and then hopefully it'll be all right.",
+                    "timestamp": "00:18:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right. Well, we'll see. Sounds like it's got a bit of numb sensation down the right hand side, but he's had a big impact into the side of his car, hasn't he?",
+                    "timestamp": "00:18:51"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "We can make the trunk emptier if they need.",
+                    "timestamp": "00:18:58"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "The trunk?",
+                    "timestamp": "00:19:01"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Yeah. The trunk.",
+                    "timestamp": "00:19:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah. I think they're trying to. What's he got in it?",
+                    "timestamp": "00:19:06"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Tennis rackets.",
+                    "timestamp": "00:19:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Something like this. Oh, we'll see if we can get it out and just put it into yours. Then I so that'll probably go to the scrapyard in the sky I'd imagine. So wait until they've done all their bit and then we'll get. We'll get. I'll let you get it. Are you just hanging around? Are you. Y",
+                    "timestamp": "00:19:17"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Yeah, yeah, yeah.",
+                    "timestamp": "00:19:32"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, did you manage to get it? Oh, legend.",
+                    "timestamp": "00:19:47"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "He's coming out of there.",
+                    "timestamp": "00:19:58"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "So he goes from a standstill to fucking flying.",
+                    "timestamp": "00:20:03"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What a fucking idiot. What a fucking tit.",
+                    "timestamp": "00:20:17"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Obviously he can't control the ????",
+                    "timestamp": "00:20:35"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'll just report him for careless driving. Might just get shot of him soon. But the thing is, the one thing. He's not injublue. You're not injublue, are you, Angela? You're all right. Sure?",
+                    "timestamp": "00:20:44"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Just angry.",
+                    "timestamp": "00:20:49"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Fell off his bike the other day because he was going too fast.",
+                    "timestamp": "00:20:51"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What's been his, I mean don't get us wrong, we know that he's put his foot down.",
+                    "timestamp": "00:20:54"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "There was a car behind him making a noise, and he was making a fucking noise back.",
+                    "timestamp": "00:20:58"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Was he?",
+                    "timestamp": "00:21:01"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Dick measuring competition.",
+                    "timestamp": "00:21:05"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "When you got this car you have to. But when I'm driving he's like don't touch me alloys.",
+                    "timestamp": "00:21:08"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Whereabouts do you live?",
+                    "timestamp": "00:21:14"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Literally here, round the corner.",
+                    "timestamp": "00:21:21"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right. Is that in there? Right. Okay, I'm gonna get his details and then I might as well just let us go. Are you sure you don't need to be seen by the ambulance or anything like that?",
+                    "timestamp": "00:21:25"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "He might need an ambulance later.",
+                    "timestamp": "00:21:27"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Champion.",
+                    "timestamp": "00:21:29"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "I'm not lending him me car he'll be getting the bus.",
+                    "timestamp": "00:21:32"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Do you live together do you?",
+                    "timestamp": "00:21:34"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Yeah, married. Fucking kids.",
+                    "timestamp": "00:21:42"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Ah right. Give us a couple of minutes, we need a quick update as to what his injuries are and then we'll get you away.",
+                    "timestamp": "00:21:46"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Honestly, like I'm gonna be the one with the nice car now.",
+                    "timestamp": "00:21:51"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "What car you got?",
+                    "timestamp": "00:22:10"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Audio 4 liter. Sporty. And I drive it like Miss Daisy.",
+                    "timestamp": "00:22:20"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Nice car, you might as well enjoy it.",
+                    "timestamp": "00:22:25"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Let's just give it a couple of minutes for another condition update. At the moment doesn't look majorly serious.",
+                    "timestamp": "00:22:30"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "He's injublue his right side he was telling me.",
+                    "timestamp": "00:22:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's right.",
+                    "timestamp": "00:22:39"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Is the wife ok?",
+                    "timestamp": "00:22:42"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I think so. Your wife?",
+                    "timestamp": "00:22:44"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Yeah.",
+                    "timestamp": "00:22:46"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Pissed off.",
+                    "timestamp": "00:22:47"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Oh, she will be. Or she will be when I tell her I'm using her car for work.",
+                    "timestamp": "00:22:48"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "She said you're not.",
+                    "timestamp": "00:22:53"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Really. So obviously bus ride. We'll have to interview you at some point about it. If it's not life threatening or life immediately life changing for him, then I'll interview you at a later date. If I get an update from them that it's potentially life threatening or life changing. Obviously I don't suspect it probably is. Then we'll, then I will have to speak to you in custody tonight. However, we'll see what it's like. I don't I don't think it is going to go that way. And obviously that will just be as a voluntary attender. Have you got any driving convictions or anything like that?",
+                    "timestamp": "00:23:13"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Just the odd speeding fines. And I got one for me reg plate actually not long ago.",
+                    "timestamp": "00:23:34"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh did you. Well it didn't conform or something. Like that.",
+                    "timestamp": "00:23:39"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "They said it was the bubble writing.",
+                    "timestamp": "00:23:43"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, right.",
+                    "timestamp": "00:23:46"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I mean, next time you walk past, have a look at it. They said it was the bubble rating.",
+                    "timestamp": "00:23:47"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Do you know what it is? The standard is. It might sound mad because you probably can't tell any difference. But if it hasn't got a special stamp in the bottom corner.",
+                    "timestamp": "00:23:50"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "It hasn't, I ordered them off the internet.",
+                    "timestamp": "00:24:04"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's the thing. It's literally it's clear it doesn't have the mark that.",
+                    "timestamp": "00:24:06"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "You can only see when you're like that close up.",
+                    "timestamp": "00:24:11"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yes it does. It'll probably be exactly the same properties they're using it. It's crazy. I mean, I don't really bother with number plates unless they're trying to, like, ghost plate kind of thing.",
+                    "timestamp": "00:24:13"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Putting black tape over them.",
+                    "timestamp": "00:24:24"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah, stuff like that. It's a bit more sinister, isn't it? I get people modify their cars, but even some of them, you know, that's classed as modification, which you can, and your insurance company wouldn't cover",
+                    "timestamp": "00:24:27"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Having a bubble plate on.",
+                    "timestamp": "00:24:39"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah, because it's not a standard authorization thing on it. So it's classed as like a modification. It's obviously not going to make a car go faster. It's just like a vanity thing, isn't it? Really. So the insurance sometimes drops off. So then you're technically drivikng without insurance, not that I'm saying that you were but, that's the case. I'll just grab a telephone number for you. She's just got one.",
+                    "timestamp": "00:24:40"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Yeah, I did.",
+                    "timestamp": "00:24:56"
+                },
+                {
+                    "role": "MATE",
+                    "dialogue": "Hello, can I have some water?",
+                    "timestamp": "00:25:13"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I haven't got any, mate. I'm sorry.",
+                    "timestamp": "00:25:17"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Is that his son?",
+                    "timestamp": "00:25:28"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's his mate.",
+                    "timestamp": "00:25:30"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Oh, right.",
+                    "timestamp": "00:25:31"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So. Yeah, we'll get a date. Are you? What hours you work?",
+                    "timestamp": "00:25:32"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Three days a week. I'm on Wednesday, Thursday, Friday at the minute.",
+                    "timestamp": "00:25:37"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So late next week. It'll be Wednesday, Wednesday? Friday. Right? Maybe do it on maybe Tuesday if that's going to work out because you only live there.",
+                    "timestamp": "00:25:39"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Brixton Station, yeah?",
+                    "timestamp": "00:25:48"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So we'll just do a voluntary attend, right?",
+                    "timestamp": "00:25:50"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "At least I can walk because I've not got a car.",
+                    "timestamp": "00:25:52"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Fucks sake. Do you want to know a funny story? Come off my motorbike last week.",
+                    "timestamp": "00:25:54"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, she said, I thought you meant pedal bike.",
+                    "timestamp": "00:26:00"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "No motorbike.",
+                    "timestamp": "00:26:04"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, where was that?",
+                    "timestamp": "00:26:05"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Park Side Pass.",
+                    "timestamp": "00:26:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Bloody hell.",
+                    "timestamp": "00:26:06"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Park Side Pass?",
+                    "timestamp": "00:26:07"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Park Side Pass, yeah.",
+                    "timestamp": "00:26:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Are you all right?",
+                    "timestamp": "00:26:08"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Done me leg in like and my thumbs still swollen. I can't bend it, but.",
+                    "timestamp": "00:26:10"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh, God. Maybe the bus is a good idea.",
+                    "timestamp": "00:26:15"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "I think it is.",
+                    "timestamp": "00:26:17"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. Should we see it? What do you think about 10:00 on Tuesday?",
+                    "timestamp": "00:26:21"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "The only thing is the missus will be at work and the kids are off school. So I'll have the kids. Is there any way of me bringing them?",
+                    "timestamp": "00:26:33"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "That's not gonna work, is it? Wait. Well, do we should we do it the week after?",
+                    "timestamp": "00:26:44"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "It a week after would be perfect because they're back at school.",
+                    "timestamp": "00:26:49"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Maybe, like, maybe maybe do a two weeks after then.",
+                    "timestamp": "00:26:54"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Has he passed everything?",
+                    "timestamp": "00:27:00"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah, he's passed. Have you got an injury update at all. Got an injury update?",
+                    "timestamp": "00:27:03"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "No. Not yet. It's still getting taken out of the car so.",
+                    "timestamp": "00:27:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "It's probably just going to be minor.",
+                    "timestamp": "00:27:07"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "I don't believe it to be serious. Oh, well, not at this moment. We've have had no update, but",
+                    "timestamp": "00:27:13"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'd just do the report now until we get the outcome for the injuries later and then go from there.",
+                    "timestamp": "00:27:20"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right. I'm going to deal with you as a voluntary atttender. I'll give you a ring to arrange a convenient time. Yeah. And and we'll just do it. Obviously you can have a legal rep there if you want it. It's entirely up to you. I'll show you the dash cam. I haven't got it straight away, but I'll show you that in the interview. And you can just tell me what you think, and I'll tell you obviously what I think, and we'll go from there. But obviously, pending the update from him, it'll probably worked out a couple of weeks, really, because I can get an idea as to what his level of injuries are going to be like long term or short term. I don't think it'll be serious.",
+                    "timestamp": "00:27:28"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Just take a few pain killers, he'll be sound.",
+                    "timestamp": "00:28:05"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah you never know. Right. I'll let you and Angela get on your way. Your car will have to get recoveblue. All right?",
+                    "timestamp": "00:28:06"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "If I can get it recoveblue, can I get it recoveblue or do you have to?",
+                    "timestamp": "00:28:13"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'll get it recoveblue.",
+                    "timestamp": "00:28:16"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Hang on. Yes base, go ahead. Can you pass us the log number for this job.",
+                    "timestamp": "00:28:41"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Just the RTC on the Brixton roundabout near Asda.",
+                    "timestamp": "00:28:44"
+                },
+                {
+                    "role": "RADIO",
+                    "dialogue": "1234, 1234",
+                    "timestamp": "00:28:50"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "1234. Yes, yes. That's all recieved.",
+                    "timestamp": "00:28:52"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So I'll give you that insurance number because your insurance company will probably ask for that.",
+                    "timestamp": "00:28:57"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "That's what I was going to ask as well what do I do. Because I've never been in a crash.",
+                    "timestamp": "00:29:04"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So so you ring your insurance company when you get in, right. Let them know that you've got that police reference. Let them know that you've been involved in an RTC. The police have uplifted your vehicle. It's not seized as evidence, because I can complete the inspection here. But it's obviously because of where the accident is. Your insurance company will then send their recovery truck to pick it up to carry out the repairs. And they're just collected from there. Yeah. Right. I'll get Angela, you haven't got far to walk have you.",
+                    "timestamp": "00:29:07"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "No, that's the only good thing.",
+                    "timestamp": "00:29:40"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Right, mate?",
+                    "timestamp": "00:29:42"
+                },
+                {
+                    "role": "DRIVER",
+                    "dialogue": "Right thanks.",
+                    "timestamp": "00:29:54"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'll let you out.",
+                    "timestamp": "00:29:57"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Angela. He's going to get locked up. I'm just joking. He's not.",
+                    "timestamp": "00:30:01"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Ah great.",
+                    "timestamp": "00:30:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'm gonna interview him later on. The cameraman is just having a quick speak with him now about the filming and stuff like that. Are you sure you don't want to get checked out by the ambluance or anything?",
+                    "timestamp": "00:30:09"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "No, I'm fine.",
+                    "timestamp": "00:30:36"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All the details are here in case you change your mind later tomorrow.",
+                    "timestamp": "00:31:03"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "He needs his work ID out the car.",
+                    "timestamp": "00:31:17"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Stuff out of the car?",
+                    "timestamp": "00:31:18"
+                },
+                {
+                    "role": "PASSENGER",
+                    "dialogue": "Everything's in the car. I don't know what's in it. But need to get it out.",
+                    "timestamp": "00:31:19"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Can you give me a little update on what I missed in the back of the car?",
+                    "timestamp": "00:33:02"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So let's move away from this noisy bit.",
+                    "timestamp": "00:33:28"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "So what's happened in the back of the car?",
+                    "timestamp": "00:33:37"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So he's So we've had a. He's basically. I'm trying to think what's what I'm talking about. Now, I've actually talked about. So yeah, at the moment I don't think the injuries for the other vehicle are that serious. So it's going to be he's passed all the drugs test, all the alcohol tests. We're quite satisfied. We've got some dashcam footage, so he'll be interviewed at a later date, which gives us enough time to conduct a proper condition update on the on the driver of the other vehicle. He reckons he just came off his bike the other week on Park Side Pass, so maybe he's a little bit of a a bit heavy handed with the throttle. And maybe he's heavy footed with the gas in this. So yeah probably not the best driver, few convictions for speeding and things like that. So we'll do a quick inspection of his car now just to make sure that there's no kind of mechanical defects with it. And we'll get it uplifted. And hopefully this chap in this car is all right. Looks like they're just cutting the roof off it now.",
+                    "timestamp": "00:33:39"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "And then tell us what's the deal with the dash cam footage? Where's that come from?",
+                    "timestamp": "00:34:44"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So we've had a member of the public's picked up. A member of the public's captublue him as he's came round off the roundabout which shows him putting his foot down a bit and cutting in over the side of the.....Murphy ruining the shot. Murphy, will you do this bit for us?",
+                    "timestamp": "00:34:48"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "You were doing really well until he put you off.",
+                    "timestamp": "00:35:15"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "He always does it. Every time. It's cos he says he doesn't want to be on camera. But then wants every opportunity to be on camera.",
+                    "timestamp": "00:35:19"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Anyway, I've got the dashcam footage and that.",
+                    "timestamp": "00:35:29"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Why don't you show him the dashcam footage.",
+                    "timestamp": "00:35:31"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "You wanna have a look?",
+                    "timestamp": "00:35:34"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "All right. Go on then.",
+                    "timestamp": "00:35:40"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "All right. So this is from a witness.",
+                    "timestamp": "00:35:43"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "It's quite good, actually.",
+                    "timestamp": "00:35:46"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Captures everything.",
+                    "timestamp": "00:35:53"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So he come from this way?",
+                    "timestamp": "00:35:54"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Longford Park. There he is. There's that other Ford that he apparently has been revving the engine but hasn't crashed like he has.",
+                    "timestamp": "00:35:55"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Tokyo Drift. He's just put his foot down far too hard.",
+                    "timestamp": "00:36:16"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah, that other Ford has managed to navigate that. Did we get a VRM for that?",
+                    "timestamp": "00:36:19"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "I don't think so.",
+                    "timestamp": "00:36:24"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "What does it look like to you? And in terms of his driving?",
+                    "timestamp": "00:36:29"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "It'll hit the Oval Road camera anyway. Yeah. You cannot really say that they've been racing at that point anyway. They've just been like standard flow of the. They haven't gone absolutely tearing round.",
+                    "timestamp": "00:36:35"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "30m stretch of road and",
+                    "timestamp": "00:36:44"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "they've just put their foot down far too hard.",
+                    "timestamp": "00:36:49"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "The other ones navigated the bend better hasn't he?",
+                    "timestamp": "00:36:54"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Well you can see the other one's going nowhere near as fast as he is.",
+                    "timestamp": "00:36:58"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Oh, no.",
+                    "timestamp": "00:37:01"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Oh no. He's came a cropper. He's not accounted for weight. Has he? And the driving position?",
+                    "timestamp": "00:37:04"
+                },
+                {
+                    "role": "MURPHY",
+                    "dialogue": "Oh, well.",
+                    "timestamp": "00:37:12"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Have you got the keys for that? I'll just have a quick look at it.",
+                    "timestamp": "00:37:16"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "How many fucking how many tactical units we got.",
+                    "timestamp": "00:42:07"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Somebody should come down here and relieve me yesterday morning. Unless Hayley is happy stopping.",
+                    "timestamp": "00:42:09"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Jason, everything's done. I'm dealing with it. It's just essentially waiting for Frida getting an update for him. But then I've arranged recovery to come out anyway. Yeah, so we'll be sorted, right? Cheers for that, appreciate it. Ok, looks like another job has come in. Let's back on the road.",
+                    "timestamp": "00:46:01"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Did you get a chance to look at the direction of travel for that? Do we think it's headed towards there? Is it gone from like the top end of Glazer Raod over the A19 roundabout, or is it the other way around.",
+                    "timestamp": "00:48:29"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Roger. So it's more er northbound.",
+                    "timestamp": "00:48:53"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Westbound? Yes. Where's this one been stolen from?",
+                    "timestamp": "00:49:00"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "I'm not too sure.",
+                    "timestamp": "00:49:10"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Ok, let's do a quick pickup. So, Harry, tell us where you're going and what's happening.",
+                    "timestamp": "00:49:29"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So just had a report of a two vehicle RTC, top of Richmond Park. Fucking hard start again. So just on my way to a report of a two vehicle RTC at the roundabout with Richmond Park. Apparently one male's trapped in a vehicle, so it doesn't sound too good. We're just waiting there to get one to see what the level of injury is, but it's not. Doesn't sound too great.",
+                    "timestamp": "00:49:42"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Why do you have to get there quickly and what will be your first priority when you get there?",
+                    "timestamp": "00:50:15"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "So first priority obviously is is obviously tend to the casualty. Essentially if the paramedics aren't there on scene at before us and then we'll obviously secure the driver of the offending vehicle and witnesses and stuff like that. So it's important to get there quite quick just so that we can get hold of them, or we don't want to lose any evidence if especially if these things turn into fatals or serious life changing injuries, it's important that we get everything as soon as we possibly can.",
+                    "timestamp": "00:50:19"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "And the location of where it's reported to be. Is that like a busy sort of junction or describe that area to me? Yes.",
+                    "timestamp": "00:50:54"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Where it is, it's like a major roundabout. So it's a really busy stretch of road that it's not quite rush hour, but it's It's getting on for that time, isn't it, where we've got, like a. Yeah, we're gonna have taxis, people going to the airport. So we're gonna try and minimise any road closures or disruptions to the public.",
+                    "timestamp": "00:51:01"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "So tell me, like, how much chaos can you cause if you don't get them dealt with quickly and make the scene safe and stuff like that. Like, you know, what's what do you not want to happen?",
+                    "timestamp": "00:51:31"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Well, ultimately you don't want any other like accidents or collisions happening as a result of this one. So if it's not",
+                    "timestamp": "00:51:42"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Sometimes people sort of have a look or distract or.",
+                    "timestamp": "00:51:50"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Yeah it's likely that you can have further collisions afterwards. People sort of driving past just being a little bit nosy and sort of not realizing maybe there's something in front of them and then you just end up with all sorts going on and potentially even more chaos.",
+                    "timestamp": "00:51:56"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Chaos. Everyone wants to have a look.",
+                    "timestamp": "00:52:17"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Everyone's nosy.",
+                    "timestamp": "00:52:24"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Everyone's seen something but actually haven't.",
+                    "timestamp": "00:52:26"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Yeah. I think it's just a flashing blue lights as well, isn't it? Once we're there, everyone wants to see what's going on.",
+                    "timestamp": "00:52:31"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "And let's fast forward to the end of that job then. So we've left. And without referencing that we left quickly to go another one, what are your sort of parting thoughts about what happened there Harry? So your interaction with that driver. Tell us what you're going to be reporting him for, what you thought of, what he had to say about his actions and his driving. What did you think of them? What did you make of him?",
+                    "timestamp": "00:52:42"
+                },
+                {
+                    "role": "HARRY",
+                    "dialogue": "Yeah. So he was a bit of an interesting character. He's telling us that all of a sudden the car just got away from him from for no reason whatsoever. But in my experience, that's not generally the case. You know, it's probably got something to do with how heavy footed he is and how extreme he is with steering. So I the it probably taught talks for itself. The fact that he's came off his motorcycle just a week prior on Park Side pass and injublue himself. It sounds like he's a bit of a speed demon. And we've got footage of another car behind him which is all suited up, and his girlfriend's told her that they've they've been both revving their engines at the lights and potentially a bit of racing, a bit of showboating for each other and both nice cars. So, yeah, he's. I think he's been doing a bit of showing off and all this. Unfortunately for him, he's came a cropper in there on the roundabout and now someone else has been injublue because of his actions and his ego driving cars, which are too fast and driving well beyond his capabilities. So you'll be getting reported for he's getting reported for careless driving. We'll be putting a notice on his car now, and him, if he's going to drive like that again, then we'll be taking his car off him.",
+                    "timestamp": "00:53:08"
+                },
+                {
+                    "role": "DIRECTOR",
+                    "dialogue": "Do you think do you think that he's kind of lucky that he didn't kill somebody tonight? Or could it be worse for him?",
+                    "timestamp": "00:54:45"
+                },
+                {
+                    "role": "JANE",
+                    "dialogue": "Yeah, I think particularly because that's such a busy road at the moment it seems like they're sort of the injublue party has got off quite lightly. It could have been a lot worse. It could have been a lot more serious. So he's the driver of the other car's very, very lucky that he hasn't caused potentially sort of a fatality there.",
+                    "timestamp": "00:54:53"
+                }
+            ]
+        }
